@@ -1,4 +1,4 @@
-# Olá, eu sou o Fernando Nunes. Estudante de Análise e desenvolvimento de sistemas, 2 semestre.
+# Olá, eu sou o Fernando Nunes. Estudante de Análise e desenvolvimento de sistemas, atualmente no segundo semestre.
 
 -
 
