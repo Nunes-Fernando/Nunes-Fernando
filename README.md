@@ -3,7 +3,7 @@
 -
 
 - 🔭 Estou atualmente em busca de uma oportunidade de estágio
-- 🌱 Estou estudando, Html, Css, JavaScript e(Java na faculdade)
+- 🌱 Estou estudando, Html, Css, JavaScript e Java.
 - 📫 Contatos - Email: fn4586@gmail.com / Linkedin: www.linkedin.com/in/fernando-nunes-b89661197
 
 <div style="display: inline_block"><br>
