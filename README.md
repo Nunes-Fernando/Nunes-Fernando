@@ -15,4 +15,4 @@
 <img align ="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-Apaixonado por tecnologia!!! Estagiário de QA na vivo e cursando o último ano de 
+Apaixonado por tecnologia!!! Estagiário de QA na vivo e cursando o último ano de Analise e desenvolvimento de sistemas.
